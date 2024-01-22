@@ -30,7 +30,7 @@ body {
 
 /* Change color on hover */
 .sidenav a:hover {
-  background-color: #ddd;
+  background-color: #eee;
   color: black;
 }
 
